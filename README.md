@@ -1,5 +1,5 @@
 # Madeliene-Edwards-Portfolio-Website
-Business Website, Portfolio - resume, online-store (merchandise)
+Business Website, Portfolio - resume, 
 
 
 Project Descriptin:
